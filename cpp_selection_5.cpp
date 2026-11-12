@@ -1,4 +1,4 @@
-// 5. Write a code that will input 3 numbers then identify the smallest.
+// 5. Write a C++ code that will input 3 numbers then identify the smallest.
 
 #include <iostream>
 using namespace std;
