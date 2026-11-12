@@ -1,5 +1,4 @@
-      *    5. Write a code that will input 3 numbers then identify
-      *       the smallest number.
+      *    5. Write a COBOL code that will input 3 numbers then identify the smallest number.
 
        IDENTIFICATION DIVISION.
        PROGRAM-ID. SMALLEST-NUMBER-PROGRAM.
